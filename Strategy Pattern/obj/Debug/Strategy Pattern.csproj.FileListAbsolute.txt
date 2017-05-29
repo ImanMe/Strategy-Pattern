@@ -1,0 +1,6 @@
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csprojResolveAssemblyReference.cache
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+c:\users\imemarpour\documents\visual studio 2015\Projects\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
